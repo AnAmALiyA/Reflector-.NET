@@ -1,0 +1,9 @@
+D:\Education_materials\Test Task\Reflector\Reflector\bin\Debug\Reflector.exe.config
+D:\Education_materials\Test Task\Reflector\Reflector\bin\Debug\Reflector.exe
+D:\Education_materials\Test Task\Reflector\Reflector\bin\Debug\Reflector.pdb
+D:\Education_materials\Test Task\Reflector\Reflector\obj\Debug\Reflector.csprojResolveAssemblyReference.cache
+D:\Education_materials\Test Task\Reflector\Reflector\obj\Debug\Reflector.Form1.resources
+D:\Education_materials\Test Task\Reflector\Reflector\obj\Debug\Reflector.Properties.Resources.resources
+D:\Education_materials\Test Task\Reflector\Reflector\obj\Debug\Reflector.csproj.GenerateResource.Cache
+D:\Education_materials\Test Task\Reflector\Reflector\obj\Debug\Reflector.exe
+D:\Education_materials\Test Task\Reflector\Reflector\obj\Debug\Reflector.pdb
